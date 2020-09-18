@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: React.JS
 - 💬 Ask me about: [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai) for 1.0-M4
 - ⚡ Fun fact: know no kotlin, editing [cqhttp-mirai](https://github.com/XZhouQD/cqhttp-mirai)
-- 📫 How to reach me: [X.Zhou.QD@hotmail.com](mailto:X.Zhou.QD@hotmail.com)
+- 📫 How to reach me: [jcb20150301@gmail.com](mailto:jcb20150301@gmail.com)
 
 <img align="right" alt="XZhouQD Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daofeng2015&show_icons=true&hide_border=true&theme=radical" />
 
